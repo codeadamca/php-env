@@ -1,4 +1,4 @@
-# Hisding PHP Environment Varaibles
+# Hiding PHP Environment Varaibles
 
 A basic vanilla PHP function to load variables from a ```.env``` file.
 
