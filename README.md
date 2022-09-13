@@ -1,4 +1,4 @@
-# php-env
+# Hisding PHP Environment Varaibles
 
 A basic vanilla PHP function to load variables from a ```.env``` file.
 
