@@ -59,7 +59,7 @@ foreach($env as $value)
 
 7. Finally, you can use the contants in your database connection and any API code:
 
-```
+```php
 $connect = mysqli_connect(DB_HOST, DB_USERNAME, DB_PASSWORD, DB_DATABASE);
 ```
 
