@@ -9,10 +9,10 @@ When you are creating a basic vanilla PHP project and want to keep your database
 2. Put your actual database credentials and API keys in your `.env``file:
 
 ```php
-DB_HOST=real_host
-DB_DATABASE=real_database_name
-DB_USERNAME=real_username
-DB_PASSWORD=real_password
+DB_HOST=<DB_HOST>
+DB_DATABASE=<DB_DATABASE>
+DB_USERNAME=<DB_USERNAME>
+DB_PASSWORD=<DB_PASSWORD>
 
 API_SECRET=real_api_key
 ```
