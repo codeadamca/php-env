@@ -34,7 +34,8 @@ When you are creating a basic vanilla PHP project and want to keep your database
     .env
     ```
 
-Note: I have excluded this step in this repo so you can view both the `.env` and `.env.sample` files. 
+> [!Note]
+> I have excluded this step in this repo so you can view both the `.env` and `.env.sample` files. 
 
 5. If your `.env` file is accessible from a browser, use a `.htaccess` file to hide your `.env` file:
     
